@@ -1,4 +1,4 @@
-# SystemD
+# systemd
 
 https://systemd.io/
 
